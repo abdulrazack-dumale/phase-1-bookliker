@@ -99,3 +99,4 @@ document.addEventListener("DOMContentLoaded", () => {//Getting the list of books
       })
     })
   }
+ 
